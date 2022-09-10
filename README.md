@@ -1,0 +1,2 @@
+Тестирование эмулятора android на browserstack .Сделал две простых проверки на android и 
+тесты "примеров" на самом сайте ,для ios ,android https://www.browserstack.com/docs/app-automate/appium/getting-started/java
