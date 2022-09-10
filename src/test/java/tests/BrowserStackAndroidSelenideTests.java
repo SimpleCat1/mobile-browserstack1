@@ -18,7 +18,7 @@ import static com.codeborne.selenide.Selenide.$$;
 import static io.qameta.allure.Allure.step;
 
 
-@Tag("selenide_android")
+
 public class BrowserStackAndroidSelenideTests extends TestBase {
     @Epic("Поиск")
     @Feature("Поиск на главной странице")
